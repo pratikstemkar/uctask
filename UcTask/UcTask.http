@@ -1,0 +1,6 @@
+@UcTask_HostAddress = http://localhost:5111
+
+GET {{UcTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

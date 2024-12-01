@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UcTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201042453_update-task-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201042453_update-task-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201041917_update-task-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201041917_update-task-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\models\\utask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\models\\utask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201041150_update-task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201041150_update-task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201035928_task-identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201035928_task-identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201035719_user-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201035719_user-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201030326_db-init-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201030326_db-init-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\UcTask\\UcTask\\Migrations\\20241201030033_db-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UcTask\\Migrations\\20241201030033_db-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826D6410-3B99-4FA0-9A60-9486C042E359}|Solution Items{826D6410-3B99-4FA0-9A60-9486C042E359}|E:\\UcTask\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{826D6410-3B99-4FA0-9A60-9486C042E359}|Solution Items{826D6410-3B99-4FA0-9A60-9486C042E359}|solutionrelative:compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\uctask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\uctask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|e:\\uctask\\uctask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04EEDA9E-3940-4818-BA78-7DFC718B26FB}|UcTask\\UcTask.csproj|solutionrelative:uctask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241201042453_update-task-3.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201042453_update-task-3.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201042453_update-task-3.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201042453_update-task-3.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201042453_update-task-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:24:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241201041917_update-task-2.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201041917_update-task-2.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201041917_update-task-2.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201041917_update-task-2.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201041917_update-task-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:19:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241201041150_update-task.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201041150_update-task.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201041150_update-task.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201041150_update-task.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201041150_update-task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:11:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241201035928_task-identity.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201035928_task-identity.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201035928_task-identity.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201035928_task-identity.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201035928_task-identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:59:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241201035719_user-update.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201035719_user-update.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201035719_user-update.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201035719_user-update.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201035719_user-update.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:57:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UcTask\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UcTask\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:39:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241201030326_db-init-2.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201030326_db-init-2.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201030326_db-init-2.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201030326_db-init-2.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201030326_db-init-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:03:26.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241201030033_db-init.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Migrations\\20241201030033_db-init.cs",
+              "RelativeDocumentMoniker": "UcTask\\Migrations\\20241201030033_db-init.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Migrations\\20241201030033_db-init.cs",
+              "RelativeToolTip": "UcTask\\Migrations\\20241201030033_db-init.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:00:34.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "E:\\UcTask\\compose.yaml",
+              "RelativeDocumentMoniker": "compose.yaml",
+              "ToolTip": "E:\\UcTask\\compose.yaml",
+              "RelativeToolTip": "compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-01T02:29:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UcTask\\Models\\User.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Models\\User.cs",
+              "RelativeToolTip": "UcTask\\Models\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA5wCgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:13:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UTask.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Models\\UTask.cs",
+              "RelativeDocumentMoniker": "UcTask\\Models\\UTask.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Models\\UTask.cs",
+              "RelativeToolTip": "UcTask\\Models\\UTask.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:00:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "UcTask\\Data\\TaskContext.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Data\\TaskContext.cs",
+              "RelativeToolTip": "UcTask\\Data\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:55:41.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UcTask.csproj",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\UcTask.csproj",
+              "RelativeDocumentMoniker": "UcTask\\UcTask.csproj",
+              "ToolTip": "E:\\UcTask\\UcTask\\UcTask.csproj",
+              "RelativeToolTip": "UcTask\\UcTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T01:38:06.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "UcTask\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "UcTask\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:37:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "UcTask\\Controllers\\HelloController.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "UcTask\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:36:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UcTask\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\UcTask\\UcTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UcTask\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T01:36:04.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\Program.cs",
+              "RelativeDocumentMoniker": "UcTask\\Program.cs",
+              "ToolTip": "E:\\UcTask\\UcTask\\Program.cs",
+              "RelativeToolTip": "UcTask\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:35:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\UcTask\\UcTask\\appsettings.json",
+              "RelativeDocumentMoniker": "UcTask\\appsettings.json",
+              "ToolTip": "E:\\UcTask\\UcTask\\appsettings.json",
+              "RelativeToolTip": "UcTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T01:35:49.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

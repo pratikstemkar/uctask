@@ -10,8 +10,10 @@ namespace UcTask
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            var conString = Environment.GetEnvironmentVariable("ConnectionString");
+
             builder.Services.AddDbContext<TaskContext>((options) =>
-                options.UseNpgsql(builder.Configuration.GetConnectionString("conString")));
+                options.UseNpgsql(conString));
 
             AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
@@ -23,9 +25,9 @@ namespace UcTask
             app.UseRouting();
 
             app.UseCors((policyBuilder) =>
-            policyBuilder.WithOrigins("*")
-                         .WithHeaders("*")
-                         .WithMethods("*"));
+                  policyBuilder.WithOrigins("*")
+                               .WithHeaders("*")
+                               .WithMethods("*"));
 
             app.UseAuthorization();
 
